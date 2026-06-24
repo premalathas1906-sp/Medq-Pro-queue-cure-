@@ -1,0 +1,12 @@
+# Antigravity / Android
+android/build/
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+
+# Capacitor generated
+capacitor-cordova-android-plugins/
+android/app/src/main/assets/public/
+
+# Node
+node_modules/

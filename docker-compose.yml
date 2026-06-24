@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  medq-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    environment:
+      - PORT=3001
+      - NODE_ENV=production
+      - JWT_SECRET=medq_pro_jwt_secret_key_99
+      - GEMINI_API_KEY=
+    volumes:
+      - medq-db-data:/app/server/database
+
+volumes:
+  medq-db-data:
