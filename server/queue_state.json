@@ -1,0 +1,541 @@
+{
+  "activePatient": {
+    "token": "P-109",
+    "name": "Hal Jordan",
+    "note": "Color vision checkup",
+    "type": "Checkup",
+    "addedAt": "2026-06-23T16:17:59.622Z",
+    "calledAt": "2026-06-23T16:56:02.873Z",
+    "completedAt": null
+  },
+  "waitingQueue": [
+    {
+      "token": "P-110",
+      "name": "Victor Stone",
+      "note": "Joint hardware calibration check",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T16:20:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-111",
+      "name": "Sarah Brown",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T16:05:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-112",
+      "name": "Joseph Miller",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T16:03:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-113",
+      "name": "Barbara Martinez",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T16:01:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-114",
+      "name": "William Gonzalez",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:59:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-115",
+      "name": "Jennifer Thomas",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:57:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-116",
+      "name": "John Jackson",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:55:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-117",
+      "name": "Karen Johnson",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:53:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-118",
+      "name": "Thomas Jones",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:51:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-119",
+      "name": "Susan Davis",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:49:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-120",
+      "name": "David Hernandez",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:47:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-121",
+      "name": "Elizabeth Wilson",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:45:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-122",
+      "name": "Robert Taylor",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:43:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-123",
+      "name": "Mary Martin",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:41:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-124",
+      "name": "Charles Williams",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:39:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-125",
+      "name": "Jessica Garcia",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:37:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-126",
+      "name": "Richard Rodriguez",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:35:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-127",
+      "name": "Linda Lopez",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:33:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-128",
+      "name": "Michael Anderson",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:31:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-129",
+      "name": "Patricia Moore",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:29:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-130",
+      "name": "James Smith",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:27:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-131",
+      "name": "Sarah Brown",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:25:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-132",
+      "name": "Joseph Miller",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:23:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-133",
+      "name": "Barbara Martinez",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:21:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-134",
+      "name": "William Gonzalez",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:19:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-135",
+      "name": "Jennifer Thomas",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:17:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-136",
+      "name": "John Jackson",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:15:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-137",
+      "name": "Karen Johnson",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:13:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-138",
+      "name": "Thomas Jones",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:11:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-139",
+      "name": "Susan Davis",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:09:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-140",
+      "name": "David Hernandez",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:07:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-141",
+      "name": "Elizabeth Wilson",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:05:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-142",
+      "name": "Robert Taylor",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:03:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-143",
+      "name": "Mary Martin",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:01:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-144",
+      "name": "Charles Williams",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T14:59:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-145",
+      "name": "Jessica Garcia",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T14:57:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-146",
+      "name": "Richard Rodriguez",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T14:55:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-147",
+      "name": "Linda Lopez",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T14:53:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-148",
+      "name": "Michael Anderson",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T14:51:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-149",
+      "name": "Patricia Moore",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T14:49:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-150",
+      "name": "James Smith",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T14:47:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-151",
+      "name": "Sarah Brown",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T14:45:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-152",
+      "name": "Joseph Miller",
+      "note": "Automated registration checkup",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T14:43:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-153",
+      "name": "Barbara Martinez",
+      "note": "Automated registration checkup",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T14:41:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-154",
+      "name": "William Gonzalez",
+      "note": "Automated registration checkup",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T14:39:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-155",
+      "name": "Jennifer Thomas",
+      "note": "Automated registration checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T14:37:59.622Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-156",
+      "name": "James Wilson",
+      "note": "Demo patient",
+      "type": "Emergency",
+      "addedAt": "2026-06-23T16:24:00.099Z",
+      "calledAt": null,
+      "completedAt": null
+    },
+    {
+      "token": "P-157",
+      "name": "James Wilson",
+      "note": "Demo patient",
+      "type": "Emergency",
+      "addedAt": "2026-06-23T16:24:01.411Z",
+      "calledAt": null,
+      "completedAt": null
+    }
+  ],
+  "completedPatients": [
+    {
+      "token": "P-100",
+      "name": "Arthur Dent",
+      "note": "Tea deficiency, anxiety",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T15:22:59.622Z",
+      "calledAt": "2026-06-23T15:27:59.622Z",
+      "completedAt": "2026-06-23T15:34:59.622Z"
+    },
+    {
+      "token": "P-101",
+      "name": "Tricia McMillan",
+      "note": "Pre-flight physiological exam",
+      "type": "Checkup",
+      "addedAt": "2026-06-23T15:34:59.622Z",
+      "calledAt": "2026-06-23T15:35:59.622Z",
+      "completedAt": "2026-06-23T15:41:59.622Z"
+    },
+    {
+      "token": "P-102",
+      "name": "Ford Prefect",
+      "note": "Toweling proficiency exam",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T15:41:59.623Z",
+      "calledAt": "2026-06-23T15:42:59.623Z",
+      "completedAt": "2026-06-23T15:51:59.623Z"
+    },
+    {
+      "token": "P-103",
+      "name": "Zaphod Beeblebrox",
+      "note": "Second head EEG scans",
+      "type": "Emergency",
+      "addedAt": "2026-06-23T15:51:59.623Z",
+      "calledAt": "2026-06-23T15:52:59.623Z",
+      "completedAt": "2026-06-23T15:57:59.623Z"
+    },
+    {
+      "token": "P-104",
+      "name": "Marvin Android",
+      "note": "Left-side diodes checkup",
+      "type": "Follow-up",
+      "addedAt": "2026-06-23T15:57:59.623Z",
+      "calledAt": "2026-06-23T15:58:59.623Z",
+      "completedAt": "2026-06-23T16:05:59.623Z"
+    },
+    {
+      "token": "P-105",
+      "name": "Clark Kent",
+      "note": "General physical, vision check",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T16:07:59.622Z",
+      "calledAt": "2026-06-23T16:19:59.622Z",
+      "completedAt": "2026-06-23T16:23:30.540Z"
+    },
+    {
+      "token": "P-106",
+      "name": "Bruce Banner",
+      "note": "Stress management & blood check",
+      "type": "Consultation",
+      "addedAt": "2026-06-23T16:10:59.619Z",
+      "calledAt": "2026-06-23T16:23:30.540Z",
+      "completedAt": "2026-06-23T16:23:38.166Z"
+    },
+    {
+      "token": "P-107",
+      "name": "Diana Prince",
+      "note": "Tetanus booster vaccination",
+      "type": "Vaccine",
+      "addedAt": "2026-06-23T16:12:59.622Z",
+      "calledAt": "2026-06-23T16:23:38.166Z",
+      "completedAt": "2026-06-23T16:23:49.904Z"
+    },
+    {
+      "token": "P-108",
+      "name": "Barry Allen",
+      "note": "Rapid heartbeat analysis",
+      "type": "Emergency",
+      "addedAt": "2026-06-23T16:14:59.622Z",
+      "calledAt": "2026-06-23T16:23:49.904Z",
+      "completedAt": "2026-06-23T16:56:02.873Z"
+    }
+  ],
+  "completedDurations": [
+    420,
+    380,
+    540,
+    310,
+    450,
+    210.918,
+    7.626,
+    11.738,
+    1932.969
+  ],
+  "defaultConsultationTime": 5,
+  "currentTokenNumber": 157
+}
